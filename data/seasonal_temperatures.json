@@ -1,0 +1,611 @@
+[
+  {
+    "year": 1940,
+    "winterTemp": -3.8,
+    "springTemp": 8.4,
+    "summerTemp": 18.4,
+    "autumnTemp": 8.9
+  },
+  {
+    "year": 1941,
+    "winterTemp": -2.9,
+    "springTemp": 8.9,
+    "summerTemp": 18.9,
+    "autumnTemp": 9.4
+  },
+  {
+    "year": 1942,
+    "winterTemp": -4.2,
+    "springTemp": 8.6,
+    "summerTemp": 19.1,
+    "autumnTemp": 9.2
+  },
+  {
+    "year": 1943,
+    "winterTemp": -0.8,
+    "springTemp": 10.2,
+    "summerTemp": 20.4,
+    "autumnTemp": 10.1
+  },
+  {
+    "year": 1944,
+    "winterTemp": -1.1,
+    "springTemp": 9.7,
+    "summerTemp": 19.8,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1945,
+    "winterTemp": -1.4,
+    "springTemp": 10.5,
+    "summerTemp": 20.5,
+    "autumnTemp": 10.4
+  },
+  {
+    "year": 1946,
+    "winterTemp": -0.6,
+    "springTemp": 10.8,
+    "summerTemp": 21.1,
+    "autumnTemp": 10.6
+  },
+  {
+    "year": 1947,
+    "winterTemp": -3.5,
+    "springTemp": 10.6,
+    "summerTemp": 21.6,
+    "autumnTemp": 11.2
+  },
+  {
+    "year": 1948,
+    "winterTemp": -0.9,
+    "springTemp": 10.1,
+    "summerTemp": 20.2,
+    "autumnTemp": 10.3
+  },
+  {
+    "year": 1949,
+    "winterTemp": -1,
+    "springTemp": 10,
+    "summerTemp": 20,
+    "autumnTemp": 10.1
+  },
+  {
+    "year": 1950,
+    "winterTemp": -0.8,
+    "springTemp": 10.4,
+    "summerTemp": 20.8,
+    "autumnTemp": 10.3
+  },
+  {
+    "year": 1951,
+    "winterTemp": 0.2,
+    "springTemp": 10.1,
+    "summerTemp": 20.1,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1952,
+    "winterTemp": -0.5,
+    "springTemp": 10.3,
+    "summerTemp": 21.4,
+    "autumnTemp": 10.2
+  },
+  {
+    "year": 1953,
+    "winterTemp": -1.2,
+    "springTemp": 9.8,
+    "summerTemp": 20.1,
+    "autumnTemp": 10
+  },
+  {
+    "year": 1954,
+    "winterTemp": -4.5,
+    "springTemp": 8.8,
+    "summerTemp": 18.7,
+    "autumnTemp": 9.1
+  },
+  {
+    "year": 1955,
+    "winterTemp": -2.3,
+    "springTemp": 9.2,
+    "summerTemp": 19.2,
+    "autumnTemp": 9.4
+  },
+  {
+    "year": 1956,
+    "winterTemp": -4.8,
+    "springTemp": 8.9,
+    "summerTemp": 19,
+    "autumnTemp": 9.3
+  },
+  {
+    "year": 1957,
+    "winterTemp": -0.7,
+    "springTemp": 10.1,
+    "summerTemp": 19.9,
+    "autumnTemp": 9.8
+  },
+  {
+    "year": 1958,
+    "winterTemp": -0.9,
+    "springTemp": 9.8,
+    "summerTemp": 19.8,
+    "autumnTemp": 9.7
+  },
+  {
+    "year": 1959,
+    "winterTemp": -0.8,
+    "springTemp": 10.2,
+    "summerTemp": 20.3,
+    "autumnTemp": 10
+  },
+  {
+    "year": 1960,
+    "winterTemp": -1.1,
+    "springTemp": 9.9,
+    "summerTemp": 19.6,
+    "autumnTemp": 9.8
+  },
+  {
+    "year": 1961,
+    "winterTemp": -0.4,
+    "springTemp": 10.3,
+    "summerTemp": 20.2,
+    "autumnTemp": 10.1
+  },
+  {
+    "year": 1962,
+    "winterTemp": -3.2,
+    "springTemp": 9,
+    "summerTemp": 19.4,
+    "autumnTemp": 9.3
+  },
+  {
+    "year": 1963,
+    "winterTemp": -5.2,
+    "springTemp": 8.8,
+    "summerTemp": 19.9,
+    "autumnTemp": 9.5
+  },
+  {
+    "year": 1964,
+    "winterTemp": -3.8,
+    "springTemp": 8.9,
+    "summerTemp": 19.1,
+    "autumnTemp": 9.1
+  },
+  {
+    "year": 1965,
+    "winterTemp": -2.5,
+    "springTemp": 8.7,
+    "summerTemp": 18.8,
+    "autumnTemp": 9.2
+  },
+  {
+    "year": 1966,
+    "winterTemp": 0.4,
+    "springTemp": 10.3,
+    "summerTemp": 20.1,
+    "autumnTemp": 10
+  },
+  {
+    "year": 1967,
+    "winterTemp": -1,
+    "springTemp": 10.2,
+    "summerTemp": 20.3,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1968,
+    "winterTemp": -1.9,
+    "springTemp": 9.6,
+    "summerTemp": 19.8,
+    "autumnTemp": 9.6
+  },
+  {
+    "year": 1969,
+    "winterTemp": -4.3,
+    "springTemp": 8.6,
+    "summerTemp": 19.2,
+    "autumnTemp": 9.1
+  },
+  {
+    "year": 1970,
+    "winterTemp": -2.1,
+    "springTemp": 9,
+    "summerTemp": 19.4,
+    "autumnTemp": 9.5
+  },
+  {
+    "year": 1971,
+    "winterTemp": -0.2,
+    "springTemp": 10.1,
+    "summerTemp": 20.4,
+    "autumnTemp": 9.8
+  },
+  {
+    "year": 1972,
+    "winterTemp": -1,
+    "springTemp": 10,
+    "summerTemp": 19.9,
+    "autumnTemp": 9.7
+  },
+  {
+    "year": 1973,
+    "winterTemp": -1.6,
+    "springTemp": 9.7,
+    "summerTemp": 19.8,
+    "autumnTemp": 9.5
+  },
+  {
+    "year": 1974,
+    "winterTemp": 0.6,
+    "springTemp": 10.2,
+    "summerTemp": 19.7,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1975,
+    "winterTemp": 0.3,
+    "springTemp": 10.1,
+    "summerTemp": 20.3,
+    "autumnTemp": 9.8
+  },
+  {
+    "year": 1976,
+    "winterTemp": -2,
+    "springTemp": 9.4,
+    "summerTemp": 20.2,
+    "autumnTemp": 9.2
+  },
+  {
+    "year": 1977,
+    "winterTemp": -0.4,
+    "springTemp": 10,
+    "summerTemp": 19.8,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1978,
+    "winterTemp": -2.8,
+    "springTemp": 9,
+    "summerTemp": 19,
+    "autumnTemp": 9.1
+  },
+  {
+    "year": 1979,
+    "winterTemp": -3.1,
+    "springTemp": 9.5,
+    "summerTemp": 20,
+    "autumnTemp": 9.6
+  },
+  {
+    "year": 1980,
+    "winterTemp": -3.5,
+    "springTemp": 8.8,
+    "summerTemp": 19.1,
+    "autumnTemp": 9.2
+  },
+  {
+    "year": 1981,
+    "winterTemp": -0.8,
+    "springTemp": 10.2,
+    "summerTemp": 20.2,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1982,
+    "winterTemp": -0.5,
+    "springTemp": 10.1,
+    "summerTemp": 20.7,
+    "autumnTemp": 10.2
+  },
+  {
+    "year": 1983,
+    "winterTemp": 0.8,
+    "springTemp": 10.5,
+    "summerTemp": 21.6,
+    "autumnTemp": 10
+  },
+  {
+    "year": 1984,
+    "winterTemp": -1.7,
+    "springTemp": 9.6,
+    "summerTemp": 19.5,
+    "autumnTemp": 9.7
+  },
+  {
+    "year": 1985,
+    "winterTemp": -5.4,
+    "springTemp": 9,
+    "summerTemp": 19.7,
+    "autumnTemp": 9.3
+  },
+  {
+    "year": 1986,
+    "winterTemp": -2.8,
+    "springTemp": 10.2,
+    "summerTemp": 20.3,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1987,
+    "winterTemp": -5.1,
+    "springTemp": 8.7,
+    "summerTemp": 20.1,
+    "autumnTemp": 9.5
+  },
+  {
+    "year": 1988,
+    "winterTemp": 0.5,
+    "springTemp": 10.4,
+    "summerTemp": 20.4,
+    "autumnTemp": 10.2
+  },
+  {
+    "year": 1989,
+    "winterTemp": 1.4,
+    "springTemp": 11.2,
+    "summerTemp": 20.5,
+    "autumnTemp": 10.1
+  },
+  {
+    "year": 1990,
+    "winterTemp": 0.9,
+    "springTemp": 11.1,
+    "summerTemp": 21,
+    "autumnTemp": 10.4
+  },
+  {
+    "year": 1991,
+    "winterTemp": -1.8,
+    "springTemp": 9.5,
+    "summerTemp": 20.6,
+    "autumnTemp": 9.6
+  },
+  {
+    "year": 1992,
+    "winterTemp": 0.2,
+    "springTemp": 10.8,
+    "summerTemp": 22.4,
+    "autumnTemp": 10.4
+  },
+  {
+    "year": 1993,
+    "winterTemp": -2.1,
+    "springTemp": 10.1,
+    "summerTemp": 20.7,
+    "autumnTemp": 9.8
+  },
+  {
+    "year": 1994,
+    "winterTemp": 1.8,
+    "springTemp": 11.5,
+    "summerTemp": 22.2,
+    "autumnTemp": 10.5
+  },
+  {
+    "year": 1995,
+    "winterTemp": -0.4,
+    "springTemp": 9.9,
+    "summerTemp": 20.6,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1996,
+    "winterTemp": -4,
+    "springTemp": 8.8,
+    "summerTemp": 19.8,
+    "autumnTemp": 9.4
+  },
+  {
+    "year": 1997,
+    "winterTemp": -1.6,
+    "springTemp": 9.8,
+    "summerTemp": 20.3,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 1998,
+    "winterTemp": 1.2,
+    "springTemp": 10.7,
+    "summerTemp": 20.9,
+    "autumnTemp": 10
+  },
+  {
+    "year": 1999,
+    "winterTemp": 0.2,
+    "springTemp": 10.9,
+    "summerTemp": 21.2,
+    "autumnTemp": 10.4
+  },
+  {
+    "year": 2000,
+    "winterTemp": 0.7,
+    "springTemp": 12.4,
+    "summerTemp": 22.3,
+    "autumnTemp": 11.2
+  },
+  {
+    "year": 2001,
+    "winterTemp": 0.5,
+    "springTemp": 10.6,
+    "summerTemp": 21.1,
+    "autumnTemp": 10.2
+  },
+  {
+    "year": 2002,
+    "winterTemp": 1.1,
+    "springTemp": 11.3,
+    "summerTemp": 21.8,
+    "autumnTemp": 10.6
+  },
+  {
+    "year": 2003,
+    "winterTemp": -1.2,
+    "springTemp": 10.8,
+    "summerTemp": 23.2,
+    "autumnTemp": 10.1
+  },
+  {
+    "year": 2004,
+    "winterTemp": -0.1,
+    "springTemp": 10.1,
+    "summerTemp": 20.7,
+    "autumnTemp": 10.4
+  },
+  {
+    "year": 2005,
+    "winterTemp": -1.5,
+    "springTemp": 9.8,
+    "summerTemp": 20.8,
+    "autumnTemp": 10.3
+  },
+  {
+    "year": 2006,
+    "winterTemp": -1.9,
+    "springTemp": 10.4,
+    "summerTemp": 22.1,
+    "autumnTemp": 11.4
+  },
+  {
+    "year": 2007,
+    "winterTemp": 3.5,
+    "springTemp": 12,
+    "summerTemp": 22.9,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 2008,
+    "winterTemp": 2.2,
+    "springTemp": 11.1,
+    "summerTemp": 21.8,
+    "autumnTemp": 11.1
+  },
+  {
+    "year": 2009,
+    "winterTemp": 0.1,
+    "springTemp": 11.9,
+    "summerTemp": 22.2,
+    "autumnTemp": 11.3
+  },
+  {
+    "year": 2010,
+    "winterTemp": -0.6,
+    "springTemp": 10,
+    "summerTemp": 21,
+    "autumnTemp": 9.9
+  },
+  {
+    "year": 2011,
+    "winterTemp": 0.3,
+    "springTemp": 11,
+    "summerTemp": 21.6,
+    "autumnTemp": 10.1
+  },
+  {
+    "year": 2012,
+    "winterTemp": -1.8,
+    "springTemp": 11.6,
+    "summerTemp": 23.4,
+    "autumnTemp": 11.3
+  },
+  {
+    "year": 2013,
+    "winterTemp": 0.8,
+    "springTemp": 10.3,
+    "summerTemp": 22.2,
+    "autumnTemp": 11.2
+  },
+  {
+    "year": 2014,
+    "winterTemp": 3.2,
+    "springTemp": 12.4,
+    "summerTemp": 21.6,
+    "autumnTemp": 12.2
+  },
+  {
+    "year": 2015,
+    "winterTemp": 2.1,
+    "springTemp": 11.7,
+    "summerTemp": 23.6,
+    "autumnTemp": 11.2
+  },
+  {
+    "year": 2016,
+    "winterTemp": 2.3,
+    "springTemp": 11.2,
+    "summerTemp": 21.9,
+    "autumnTemp": 10.7
+  },
+  {
+    "year": 2017,
+    "winterTemp": -2.7,
+    "springTemp": 11.8,
+    "summerTemp": 22.8,
+    "autumnTemp": 11.3
+  },
+  {
+    "year": 2018,
+    "winterTemp": 1.2,
+    "springTemp": 13.2,
+    "summerTemp": 23.1,
+    "autumnTemp": 12.4
+  },
+  {
+    "year": 2019,
+    "winterTemp": 1.8,
+    "springTemp": 11.9,
+    "summerTemp": 23.5,
+    "autumnTemp": 12.8
+  },
+  {
+    "year": 2020,
+    "winterTemp": 3.1,
+    "springTemp": 11,
+    "summerTemp": 22.3,
+    "autumnTemp": 11.8
+  },
+  {
+    "year": 2021,
+    "winterTemp": 1.6,
+    "springTemp": 9.7,
+    "summerTemp": 22.7,
+    "autumnTemp": 10.8
+  },
+  {
+    "year": 2022,
+    "winterTemp": 2.4,
+    "springTemp": 11.3,
+    "summerTemp": 23.9,
+    "autumnTemp": 11.7
+  },
+  {
+    "year": 2023,
+    "winterTemp": 3.3,
+    "springTemp": 11.2,
+    "summerTemp": 23.2,
+    "autumnTemp": 13.1
+  },
+  {
+    "year": 2024,
+    "winterTemp": 3.9,
+    "springTemp": 12.9,
+    "summerTemp": 24.5,
+    "autumnTemp": 12.6
+  },
+  {
+    "year": 2025,
+    "winterTemp": 3.5,
+    "springTemp": 12.5,
+    "summerTemp": 24.1,
+    "autumnTemp": 12.3
+  },
+  {
+    "year": 2026,
+    "winterTemp": 3.7,
+    "springTemp": 13.1,
+    "summerTemp": 24.4,
+    "autumnTemp": 12.5
+  }
+]

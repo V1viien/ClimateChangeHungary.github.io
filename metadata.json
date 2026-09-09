@@ -1,0 +1,6 @@
+{
+  "name": "Hungary Climate Explorer",
+  "description": "Interaktív klímaváltozás vizualizáció Magyarországon 1940-től napjainkig: hőmérsékleti anomáliák, csapadék, hőségnapok és évszakos trendek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

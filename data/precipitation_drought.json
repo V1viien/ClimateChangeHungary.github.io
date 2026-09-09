@@ -1,0 +1,611 @@
+[
+  {
+    "year": 1940,
+    "precipitation": 645,
+    "precipitationAnomalyPct": 8.4,
+    "droughtIndexPai": 3.2,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1941,
+    "precipitation": 680,
+    "precipitationAnomalyPct": 14.3,
+    "droughtIndexPai": 3,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1942,
+    "precipitation": 585,
+    "precipitationAnomalyPct": -1.7,
+    "droughtIndexPai": 3.6,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1943,
+    "precipitation": 512,
+    "precipitationAnomalyPct": -14,
+    "droughtIndexPai": 4.8,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1944,
+    "precipitation": 642,
+    "precipitationAnomalyPct": 7.9,
+    "droughtIndexPai": 3.4,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1945,
+    "precipitation": 608,
+    "precipitationAnomalyPct": 2.2,
+    "droughtIndexPai": 3.7,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1946,
+    "precipitation": 565,
+    "precipitationAnomalyPct": -5,
+    "droughtIndexPai": 4.5,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1947,
+    "precipitation": 480,
+    "precipitationAnomalyPct": -19.3,
+    "droughtIndexPai": 5.9,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 1948,
+    "precipitation": 595,
+    "precipitationAnomalyPct": 0,
+    "droughtIndexPai": 3.5,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1949,
+    "precipitation": 545,
+    "precipitationAnomalyPct": -8.4,
+    "droughtIndexPai": 4.2,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1950,
+    "precipitation": 530,
+    "precipitationAnomalyPct": -10.9,
+    "droughtIndexPai": 4.6,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1951,
+    "precipitation": 615,
+    "precipitationAnomalyPct": 3.4,
+    "droughtIndexPai": 3.4,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1952,
+    "precipitation": 435,
+    "precipitationAnomalyPct": -26.9,
+    "droughtIndexPai": 7.2,
+    "droughtCategory": "Súlyos"
+  },
+  {
+    "year": 1953,
+    "precipitation": 440,
+    "precipitationAnomalyPct": -26.1,
+    "droughtIndexPai": 6.8,
+    "droughtCategory": "Súlyos"
+  },
+  {
+    "year": 1954,
+    "precipitation": 710,
+    "precipitationAnomalyPct": 19.3,
+    "droughtIndexPai": 2.8,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1955,
+    "precipitation": 660,
+    "precipitationAnomalyPct": 10.9,
+    "droughtIndexPai": 3.1,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1956,
+    "precipitation": 590,
+    "precipitationAnomalyPct": -0.8,
+    "droughtIndexPai": 3.5,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1957,
+    "precipitation": 575,
+    "precipitationAnomalyPct": -3.4,
+    "droughtIndexPai": 3.8,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1958,
+    "precipitation": 610,
+    "precipitationAnomalyPct": 2.5,
+    "droughtIndexPai": 3.4,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1959,
+    "precipitation": 520,
+    "precipitationAnomalyPct": -12.6,
+    "droughtIndexPai": 4.6,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1960,
+    "precipitation": 685,
+    "precipitationAnomalyPct": 15.1,
+    "droughtIndexPai": 2.9,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1961,
+    "precipitation": 495,
+    "precipitationAnomalyPct": -16.8,
+    "droughtIndexPai": 5.1,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 1962,
+    "precipitation": 560,
+    "precipitationAnomalyPct": -5.9,
+    "droughtIndexPai": 3.8,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1963,
+    "precipitation": 615,
+    "precipitationAnomalyPct": 3.4,
+    "droughtIndexPai": 3.3,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1964,
+    "precipitation": 580,
+    "precipitationAnomalyPct": -2.5,
+    "droughtIndexPai": 3.6,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1965,
+    "precipitation": 810,
+    "precipitationAnomalyPct": 36.1,
+    "droughtIndexPai": 2.1,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1966,
+    "precipitation": 740,
+    "precipitationAnomalyPct": 24.4,
+    "droughtIndexPai": 2.4,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1967,
+    "precipitation": 540,
+    "precipitationAnomalyPct": -9.2,
+    "droughtIndexPai": 4.1,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1968,
+    "precipitation": 510,
+    "precipitationAnomalyPct": -14.3,
+    "droughtIndexPai": 4.7,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1969,
+    "precipitation": 640,
+    "precipitationAnomalyPct": 7.6,
+    "droughtIndexPai": 3.2,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1970,
+    "precipitation": 765,
+    "precipitationAnomalyPct": 28.6,
+    "droughtIndexPai": 2.2,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1971,
+    "precipitation": 460,
+    "precipitationAnomalyPct": -22.7,
+    "droughtIndexPai": 5.7,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 1972,
+    "precipitation": 620,
+    "precipitationAnomalyPct": 4.2,
+    "droughtIndexPai": 3.3,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1973,
+    "precipitation": 490,
+    "precipitationAnomalyPct": -17.6,
+    "droughtIndexPai": 5.3,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 1974,
+    "precipitation": 750,
+    "precipitationAnomalyPct": 26.1,
+    "droughtIndexPai": 2.3,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1975,
+    "precipitation": 580,
+    "precipitationAnomalyPct": -2.5,
+    "droughtIndexPai": 3.7,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1976,
+    "precipitation": 485,
+    "precipitationAnomalyPct": -18.5,
+    "droughtIndexPai": 5.5,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 1977,
+    "precipitation": 640,
+    "precipitationAnomalyPct": 7.6,
+    "droughtIndexPai": 3.2,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1978,
+    "precipitation": 570,
+    "precipitationAnomalyPct": -4.2,
+    "droughtIndexPai": 3.8,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1979,
+    "precipitation": 670,
+    "precipitationAnomalyPct": 12.6,
+    "droughtIndexPai": 3,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1980,
+    "precipitation": 610,
+    "precipitationAnomalyPct": 2.5,
+    "droughtIndexPai": 3.3,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1981,
+    "precipitation": 590,
+    "precipitationAnomalyPct": -0.8,
+    "droughtIndexPai": 3.6,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1982,
+    "precipitation": 480,
+    "precipitationAnomalyPct": -19.3,
+    "droughtIndexPai": 5.6,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 1983,
+    "precipitation": 420,
+    "precipitationAnomalyPct": -29.4,
+    "droughtIndexPai": 7.4,
+    "droughtCategory": "Súlyos"
+  },
+  {
+    "year": 1984,
+    "precipitation": 560,
+    "precipitationAnomalyPct": -5.9,
+    "droughtIndexPai": 4,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1985,
+    "precipitation": 580,
+    "precipitationAnomalyPct": -2.5,
+    "droughtIndexPai": 3.7,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1986,
+    "precipitation": 520,
+    "precipitationAnomalyPct": -12.6,
+    "droughtIndexPai": 4.8,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1987,
+    "precipitation": 630,
+    "precipitationAnomalyPct": 5.9,
+    "droughtIndexPai": 3.2,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1988,
+    "precipitation": 535,
+    "precipitationAnomalyPct": -10.1,
+    "droughtIndexPai": 4.5,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1989,
+    "precipitation": 470,
+    "precipitationAnomalyPct": -21,
+    "droughtIndexPai": 5.8,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 1990,
+    "precipitation": 440,
+    "precipitationAnomalyPct": -26.1,
+    "droughtIndexPai": 6.9,
+    "droughtCategory": "Súlyos"
+  },
+  {
+    "year": 1991,
+    "precipitation": 605,
+    "precipitationAnomalyPct": 1.7,
+    "droughtIndexPai": 3.5,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1992,
+    "precipitation": 410,
+    "precipitationAnomalyPct": -31.1,
+    "droughtIndexPai": 8.2,
+    "droughtCategory": "Extrém aszály"
+  },
+  {
+    "year": 1993,
+    "precipitation": 515,
+    "precipitationAnomalyPct": -13.4,
+    "droughtIndexPai": 4.9,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1994,
+    "precipitation": 485,
+    "precipitationAnomalyPct": -18.5,
+    "droughtIndexPai": 6.2,
+    "droughtCategory": "Súlyos"
+  },
+  {
+    "year": 1995,
+    "precipitation": 640,
+    "precipitationAnomalyPct": 7.6,
+    "droughtIndexPai": 3.3,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 1996,
+    "precipitation": 695,
+    "precipitationAnomalyPct": 16.8,
+    "droughtIndexPai": 2.8,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1997,
+    "precipitation": 535,
+    "precipitationAnomalyPct": -10.1,
+    "droughtIndexPai": 4.4,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 1998,
+    "precipitation": 720,
+    "precipitationAnomalyPct": 21,
+    "droughtIndexPai": 2.5,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 1999,
+    "precipitation": 785,
+    "precipitationAnomalyPct": 31.9,
+    "droughtIndexPai": 2.1,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 2000,
+    "precipitation": 415,
+    "precipitationAnomalyPct": -30.3,
+    "droughtIndexPai": 8.5,
+    "droughtCategory": "Extrém aszály"
+  },
+  {
+    "year": 2001,
+    "precipitation": 625,
+    "precipitationAnomalyPct": 5,
+    "droughtIndexPai": 3.3,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2002,
+    "precipitation": 590,
+    "precipitationAnomalyPct": -0.8,
+    "droughtIndexPai": 3.6,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2003,
+    "precipitation": 455,
+    "precipitationAnomalyPct": -23.5,
+    "droughtIndexPai": 7.6,
+    "droughtCategory": "Súlyos"
+  },
+  {
+    "year": 2004,
+    "precipitation": 645,
+    "precipitationAnomalyPct": 8.4,
+    "droughtIndexPai": 3.2,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2005,
+    "precipitation": 710,
+    "precipitationAnomalyPct": 19.3,
+    "droughtIndexPai": 2.7,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 2006,
+    "precipitation": 580,
+    "precipitationAnomalyPct": -2.5,
+    "droughtIndexPai": 4.1,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2007,
+    "precipitation": 615,
+    "precipitationAnomalyPct": 3.4,
+    "droughtIndexPai": 4.5,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 2008,
+    "precipitation": 605,
+    "precipitationAnomalyPct": 1.7,
+    "droughtIndexPai": 3.6,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2009,
+    "precipitation": 525,
+    "precipitationAnomalyPct": -11.8,
+    "droughtIndexPai": 4.7,
+    "droughtCategory": "Mérsékelt"
+  },
+  {
+    "year": 2010,
+    "precipitation": 959,
+    "precipitationAnomalyPct": 61.2,
+    "droughtIndexPai": 1.2,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 2011,
+    "precipitation": 408,
+    "precipitationAnomalyPct": -31.4,
+    "droughtIndexPai": 8.4,
+    "droughtCategory": "Extrém aszály"
+  },
+  {
+    "year": 2012,
+    "precipitation": 450,
+    "precipitationAnomalyPct": -24.4,
+    "droughtIndexPai": 8.1,
+    "droughtCategory": "Extrém aszály"
+  },
+  {
+    "year": 2013,
+    "precipitation": 670,
+    "precipitationAnomalyPct": 12.6,
+    "droughtIndexPai": 3.1,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 2014,
+    "precipitation": 730,
+    "precipitationAnomalyPct": 22.7,
+    "droughtIndexPai": 2.4,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 2015,
+    "precipitation": 540,
+    "precipitationAnomalyPct": -9.2,
+    "droughtIndexPai": 5.2,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 2016,
+    "precipitation": 715,
+    "precipitationAnomalyPct": 20.2,
+    "droughtIndexPai": 2.6,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 2017,
+    "precipitation": 605,
+    "precipitationAnomalyPct": 1.7,
+    "droughtIndexPai": 4.2,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2018,
+    "precipitation": 550,
+    "precipitationAnomalyPct": -7.6,
+    "droughtIndexPai": 5.4,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 2019,
+    "precipitation": 600,
+    "precipitationAnomalyPct": 0.8,
+    "droughtIndexPai": 4,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2020,
+    "precipitation": 640,
+    "precipitationAnomalyPct": 7.6,
+    "droughtIndexPai": 3.4,
+    "droughtCategory": "Normál"
+  },
+  {
+    "year": 2021,
+    "precipitation": 510,
+    "precipitationAnomalyPct": -14.3,
+    "droughtIndexPai": 5.6,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 2022,
+    "precipitation": 448,
+    "precipitationAnomalyPct": -24.7,
+    "droughtIndexPai": 8.9,
+    "droughtCategory": "Extrém aszály"
+  },
+  {
+    "year": 2023,
+    "precipitation": 765,
+    "precipitationAnomalyPct": 28.6,
+    "droughtIndexPai": 2.3,
+    "droughtCategory": "Csapadékos év"
+  },
+  {
+    "year": 2024,
+    "precipitation": 565,
+    "precipitationAnomalyPct": -5,
+    "droughtIndexPai": 6.5,
+    "droughtCategory": "Súlyos"
+  },
+  {
+    "year": 2025,
+    "precipitation": 580,
+    "precipitationAnomalyPct": -2.5,
+    "droughtIndexPai": 5.7,
+    "droughtCategory": "Közepes"
+  },
+  {
+    "year": 2026,
+    "precipitation": 512,
+    "precipitationAnomalyPct": -14,
+    "droughtIndexPai": 6.3,
+    "droughtCategory": "Súlyos"
+  }
+]

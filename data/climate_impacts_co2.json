@@ -1,0 +1,611 @@
+[
+  {
+    "year": 1940,
+    "co2Ppm": 310.2,
+    "grapeHarvestDayOfYear": 295,
+    "danubeAvgSummerLevelCm": 290,
+    "extremeWeatherEventsCount": 6
+  },
+  {
+    "year": 1941,
+    "co2Ppm": 310.8,
+    "grapeHarvestDayOfYear": 292,
+    "danubeAvgSummerLevelCm": 310,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1942,
+    "co2Ppm": 311.3,
+    "grapeHarvestDayOfYear": 294,
+    "danubeAvgSummerLevelCm": 275,
+    "extremeWeatherEventsCount": 5
+  },
+  {
+    "year": 1943,
+    "co2Ppm": 311.9,
+    "grapeHarvestDayOfYear": 286,
+    "danubeAvgSummerLevelCm": 230,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1944,
+    "co2Ppm": 312.4,
+    "grapeHarvestDayOfYear": 288,
+    "danubeAvgSummerLevelCm": 280,
+    "extremeWeatherEventsCount": 6
+  },
+  {
+    "year": 1945,
+    "co2Ppm": 312.9,
+    "grapeHarvestDayOfYear": 284,
+    "danubeAvgSummerLevelCm": 265,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1946,
+    "co2Ppm": 313.4,
+    "grapeHarvestDayOfYear": 281,
+    "danubeAvgSummerLevelCm": 240,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1947,
+    "co2Ppm": 314,
+    "grapeHarvestDayOfYear": 278,
+    "danubeAvgSummerLevelCm": 210,
+    "extremeWeatherEventsCount": 11
+  },
+  {
+    "year": 1948,
+    "co2Ppm": 314.5,
+    "grapeHarvestDayOfYear": 285,
+    "danubeAvgSummerLevelCm": 260,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1949,
+    "co2Ppm": 315.1,
+    "grapeHarvestDayOfYear": 286,
+    "danubeAvgSummerLevelCm": 245,
+    "extremeWeatherEventsCount": 6
+  },
+  {
+    "year": 1950,
+    "co2Ppm": 315.6,
+    "grapeHarvestDayOfYear": 283,
+    "danubeAvgSummerLevelCm": 235,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1951,
+    "co2Ppm": 316.2,
+    "grapeHarvestDayOfYear": 286,
+    "danubeAvgSummerLevelCm": 270,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1952,
+    "co2Ppm": 316.8,
+    "grapeHarvestDayOfYear": 276,
+    "danubeAvgSummerLevelCm": 185,
+    "extremeWeatherEventsCount": 10
+  },
+  {
+    "year": 1953,
+    "co2Ppm": 317.4,
+    "grapeHarvestDayOfYear": 284,
+    "danubeAvgSummerLevelCm": 190,
+    "extremeWeatherEventsCount": 6
+  },
+  {
+    "year": 1954,
+    "co2Ppm": 318,
+    "grapeHarvestDayOfYear": 298,
+    "danubeAvgSummerLevelCm": 350,
+    "extremeWeatherEventsCount": 12
+  },
+  {
+    "year": 1955,
+    "co2Ppm": 318.6,
+    "grapeHarvestDayOfYear": 291,
+    "danubeAvgSummerLevelCm": 305,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1956,
+    "co2Ppm": 319.2,
+    "grapeHarvestDayOfYear": 293,
+    "danubeAvgSummerLevelCm": 280,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1957,
+    "co2Ppm": 319.8,
+    "grapeHarvestDayOfYear": 287,
+    "danubeAvgSummerLevelCm": 260,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1958,
+    "co2Ppm": 320.4,
+    "grapeHarvestDayOfYear": 289,
+    "danubeAvgSummerLevelCm": 275,
+    "extremeWeatherEventsCount": 6
+  },
+  {
+    "year": 1959,
+    "co2Ppm": 321,
+    "grapeHarvestDayOfYear": 285,
+    "danubeAvgSummerLevelCm": 230,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1960,
+    "co2Ppm": 321.6,
+    "grapeHarvestDayOfYear": 290,
+    "danubeAvgSummerLevelCm": 320,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1961,
+    "co2Ppm": 322.2,
+    "grapeHarvestDayOfYear": 283,
+    "danubeAvgSummerLevelCm": 215,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1962,
+    "co2Ppm": 322.8,
+    "grapeHarvestDayOfYear": 294,
+    "danubeAvgSummerLevelCm": 255,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1963,
+    "co2Ppm": 323.4,
+    "grapeHarvestDayOfYear": 292,
+    "danubeAvgSummerLevelCm": 290,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1964,
+    "co2Ppm": 324,
+    "grapeHarvestDayOfYear": 295,
+    "danubeAvgSummerLevelCm": 265,
+    "extremeWeatherEventsCount": 6
+  },
+  {
+    "year": 1965,
+    "co2Ppm": 324.6,
+    "grapeHarvestDayOfYear": 299,
+    "danubeAvgSummerLevelCm": 395,
+    "extremeWeatherEventsCount": 15
+  },
+  {
+    "year": 1966,
+    "co2Ppm": 325.2,
+    "grapeHarvestDayOfYear": 287,
+    "danubeAvgSummerLevelCm": 360,
+    "extremeWeatherEventsCount": 11
+  },
+  {
+    "year": 1967,
+    "co2Ppm": 325.8,
+    "grapeHarvestDayOfYear": 285,
+    "danubeAvgSummerLevelCm": 250,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1968,
+    "co2Ppm": 326.5,
+    "grapeHarvestDayOfYear": 289,
+    "danubeAvgSummerLevelCm": 235,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1969,
+    "co2Ppm": 327.1,
+    "grapeHarvestDayOfYear": 296,
+    "danubeAvgSummerLevelCm": 300,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1970,
+    "co2Ppm": 327.7,
+    "grapeHarvestDayOfYear": 293,
+    "danubeAvgSummerLevelCm": 370,
+    "extremeWeatherEventsCount": 16
+  },
+  {
+    "year": 1971,
+    "co2Ppm": 328.4,
+    "grapeHarvestDayOfYear": 283,
+    "danubeAvgSummerLevelCm": 205,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1972,
+    "co2Ppm": 329.1,
+    "grapeHarvestDayOfYear": 288,
+    "danubeAvgSummerLevelCm": 285,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1973,
+    "co2Ppm": 329.8,
+    "grapeHarvestDayOfYear": 287,
+    "danubeAvgSummerLevelCm": 210,
+    "extremeWeatherEventsCount": 6
+  },
+  {
+    "year": 1974,
+    "co2Ppm": 330.6,
+    "grapeHarvestDayOfYear": 290,
+    "danubeAvgSummerLevelCm": 355,
+    "extremeWeatherEventsCount": 12
+  },
+  {
+    "year": 1975,
+    "co2Ppm": 331.4,
+    "grapeHarvestDayOfYear": 284,
+    "danubeAvgSummerLevelCm": 270,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1976,
+    "co2Ppm": 332.3,
+    "grapeHarvestDayOfYear": 286,
+    "danubeAvgSummerLevelCm": 215,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1977,
+    "co2Ppm": 333.2,
+    "grapeHarvestDayOfYear": 289,
+    "danubeAvgSummerLevelCm": 295,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1978,
+    "co2Ppm": 334.2,
+    "grapeHarvestDayOfYear": 297,
+    "danubeAvgSummerLevelCm": 260,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1979,
+    "co2Ppm": 335.3,
+    "grapeHarvestDayOfYear": 291,
+    "danubeAvgSummerLevelCm": 310,
+    "extremeWeatherEventsCount": 10
+  },
+  {
+    "year": 1980,
+    "co2Ppm": 336.5,
+    "grapeHarvestDayOfYear": 295,
+    "danubeAvgSummerLevelCm": 280,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1981,
+    "co2Ppm": 337.8,
+    "grapeHarvestDayOfYear": 286,
+    "danubeAvgSummerLevelCm": 270,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1982,
+    "co2Ppm": 339.2,
+    "grapeHarvestDayOfYear": 281,
+    "danubeAvgSummerLevelCm": 215,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1983,
+    "co2Ppm": 340.6,
+    "grapeHarvestDayOfYear": 275,
+    "danubeAvgSummerLevelCm": 175,
+    "extremeWeatherEventsCount": 11
+  },
+  {
+    "year": 1984,
+    "co2Ppm": 342.1,
+    "grapeHarvestDayOfYear": 289,
+    "danubeAvgSummerLevelCm": 250,
+    "extremeWeatherEventsCount": 7
+  },
+  {
+    "year": 1985,
+    "co2Ppm": 343.7,
+    "grapeHarvestDayOfYear": 292,
+    "danubeAvgSummerLevelCm": 265,
+    "extremeWeatherEventsCount": 10
+  },
+  {
+    "year": 1986,
+    "co2Ppm": 345.2,
+    "grapeHarvestDayOfYear": 284,
+    "danubeAvgSummerLevelCm": 230,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1987,
+    "co2Ppm": 346.8,
+    "grapeHarvestDayOfYear": 290,
+    "danubeAvgSummerLevelCm": 290,
+    "extremeWeatherEventsCount": 12
+  },
+  {
+    "year": 1988,
+    "co2Ppm": 348.6,
+    "grapeHarvestDayOfYear": 282,
+    "danubeAvgSummerLevelCm": 240,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1989,
+    "co2Ppm": 350.3,
+    "grapeHarvestDayOfYear": 279,
+    "danubeAvgSummerLevelCm": 200,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1990,
+    "co2Ppm": 352.1,
+    "grapeHarvestDayOfYear": 274,
+    "danubeAvgSummerLevelCm": 180,
+    "extremeWeatherEventsCount": 11
+  },
+  {
+    "year": 1991,
+    "co2Ppm": 353.9,
+    "grapeHarvestDayOfYear": 284,
+    "danubeAvgSummerLevelCm": 275,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1992,
+    "co2Ppm": 355.6,
+    "grapeHarvestDayOfYear": 268,
+    "danubeAvgSummerLevelCm": 155,
+    "extremeWeatherEventsCount": 14
+  },
+  {
+    "year": 1993,
+    "co2Ppm": 357.1,
+    "grapeHarvestDayOfYear": 280,
+    "danubeAvgSummerLevelCm": 220,
+    "extremeWeatherEventsCount": 9
+  },
+  {
+    "year": 1994,
+    "co2Ppm": 358.8,
+    "grapeHarvestDayOfYear": 266,
+    "danubeAvgSummerLevelCm": 195,
+    "extremeWeatherEventsCount": 13
+  },
+  {
+    "year": 1995,
+    "co2Ppm": 360.8,
+    "grapeHarvestDayOfYear": 283,
+    "danubeAvgSummerLevelCm": 290,
+    "extremeWeatherEventsCount": 10
+  },
+  {
+    "year": 1996,
+    "co2Ppm": 362.6,
+    "grapeHarvestDayOfYear": 293,
+    "danubeAvgSummerLevelCm": 330,
+    "extremeWeatherEventsCount": 11
+  },
+  {
+    "year": 1997,
+    "co2Ppm": 363.7,
+    "grapeHarvestDayOfYear": 285,
+    "danubeAvgSummerLevelCm": 245,
+    "extremeWeatherEventsCount": 8
+  },
+  {
+    "year": 1998,
+    "co2Ppm": 366.7,
+    "grapeHarvestDayOfYear": 280,
+    "danubeAvgSummerLevelCm": 345,
+    "extremeWeatherEventsCount": 14
+  },
+  {
+    "year": 1999,
+    "co2Ppm": 368.4,
+    "grapeHarvestDayOfYear": 277,
+    "danubeAvgSummerLevelCm": 380,
+    "extremeWeatherEventsCount": 17
+  },
+  {
+    "year": 2000,
+    "co2Ppm": 369.5,
+    "grapeHarvestDayOfYear": 261,
+    "danubeAvgSummerLevelCm": 160,
+    "extremeWeatherEventsCount": 18
+  },
+  {
+    "year": 2001,
+    "co2Ppm": 371.1,
+    "grapeHarvestDayOfYear": 279,
+    "danubeAvgSummerLevelCm": 290,
+    "extremeWeatherEventsCount": 12
+  },
+  {
+    "year": 2002,
+    "co2Ppm": 373.2,
+    "grapeHarvestDayOfYear": 270,
+    "danubeAvgSummerLevelCm": 320,
+    "extremeWeatherEventsCount": 16
+  },
+  {
+    "year": 2003,
+    "co2Ppm": 375.8,
+    "grapeHarvestDayOfYear": 259,
+    "danubeAvgSummerLevelCm": 145,
+    "extremeWeatherEventsCount": 19
+  },
+  {
+    "year": 2004,
+    "co2Ppm": 377.5,
+    "grapeHarvestDayOfYear": 278,
+    "danubeAvgSummerLevelCm": 300,
+    "extremeWeatherEventsCount": 12
+  },
+  {
+    "year": 2005,
+    "co2Ppm": 379.8,
+    "grapeHarvestDayOfYear": 281,
+    "danubeAvgSummerLevelCm": 340,
+    "extremeWeatherEventsCount": 18
+  },
+  {
+    "year": 2006,
+    "co2Ppm": 381.9,
+    "grapeHarvestDayOfYear": 269,
+    "danubeAvgSummerLevelCm": 285,
+    "extremeWeatherEventsCount": 22
+  },
+  {
+    "year": 2007,
+    "co2Ppm": 383.8,
+    "grapeHarvestDayOfYear": 256,
+    "danubeAvgSummerLevelCm": 260,
+    "extremeWeatherEventsCount": 24
+  },
+  {
+    "year": 2008,
+    "co2Ppm": 385.6,
+    "grapeHarvestDayOfYear": 267,
+    "danubeAvgSummerLevelCm": 275,
+    "extremeWeatherEventsCount": 19
+  },
+  {
+    "year": 2009,
+    "co2Ppm": 387.4,
+    "grapeHarvestDayOfYear": 263,
+    "danubeAvgSummerLevelCm": 220,
+    "extremeWeatherEventsCount": 21
+  },
+  {
+    "year": 2010,
+    "co2Ppm": 389.9,
+    "grapeHarvestDayOfYear": 288,
+    "danubeAvgSummerLevelCm": 460,
+    "extremeWeatherEventsCount": 38
+  },
+  {
+    "year": 2011,
+    "co2Ppm": 391.7,
+    "grapeHarvestDayOfYear": 265,
+    "danubeAvgSummerLevelCm": 135,
+    "extremeWeatherEventsCount": 15
+  },
+  {
+    "year": 2012,
+    "co2Ppm": 393.8,
+    "grapeHarvestDayOfYear": 254,
+    "danubeAvgSummerLevelCm": 140,
+    "extremeWeatherEventsCount": 23
+  },
+  {
+    "year": 2013,
+    "co2Ppm": 396.5,
+    "grapeHarvestDayOfYear": 272,
+    "danubeAvgSummerLevelCm": 370,
+    "extremeWeatherEventsCount": 26
+  },
+  {
+    "year": 2014,
+    "co2Ppm": 398.6,
+    "grapeHarvestDayOfYear": 268,
+    "danubeAvgSummerLevelCm": 340,
+    "extremeWeatherEventsCount": 28
+  },
+  {
+    "year": 2015,
+    "co2Ppm": 400.8,
+    "grapeHarvestDayOfYear": 252,
+    "danubeAvgSummerLevelCm": 170,
+    "extremeWeatherEventsCount": 31
+  },
+  {
+    "year": 2016,
+    "co2Ppm": 404.2,
+    "grapeHarvestDayOfYear": 269,
+    "danubeAvgSummerLevelCm": 325,
+    "extremeWeatherEventsCount": 29
+  },
+  {
+    "year": 2017,
+    "co2Ppm": 406.6,
+    "grapeHarvestDayOfYear": 258,
+    "danubeAvgSummerLevelCm": 235,
+    "extremeWeatherEventsCount": 33
+  },
+  {
+    "year": 2018,
+    "co2Ppm": 408.5,
+    "grapeHarvestDayOfYear": 246,
+    "danubeAvgSummerLevelCm": 38,
+    "extremeWeatherEventsCount": 36
+  },
+  {
+    "year": 2019,
+    "co2Ppm": 411.4,
+    "grapeHarvestDayOfYear": 248,
+    "danubeAvgSummerLevelCm": 240,
+    "extremeWeatherEventsCount": 40
+  },
+  {
+    "year": 2020,
+    "co2Ppm": 414.2,
+    "grapeHarvestDayOfYear": 255,
+    "danubeAvgSummerLevelCm": 280,
+    "extremeWeatherEventsCount": 37
+  },
+  {
+    "year": 2021,
+    "co2Ppm": 416.4,
+    "grapeHarvestDayOfYear": 262,
+    "danubeAvgSummerLevelCm": 210,
+    "extremeWeatherEventsCount": 32
+  },
+  {
+    "year": 2022,
+    "co2Ppm": 418.5,
+    "grapeHarvestDayOfYear": 242,
+    "danubeAvgSummerLevelCm": 85,
+    "extremeWeatherEventsCount": 44
+  },
+  {
+    "year": 2023,
+    "co2Ppm": 421.1,
+    "grapeHarvestDayOfYear": 245,
+    "danubeAvgSummerLevelCm": 360,
+    "extremeWeatherEventsCount": 48
+  },
+  {
+    "year": 2024,
+    "co2Ppm": 424.3,
+    "grapeHarvestDayOfYear": 238,
+    "danubeAvgSummerLevelCm": 110,
+    "extremeWeatherEventsCount": 56
+  },
+  {
+    "year": 2025,
+    "co2Ppm": 426.8,
+    "grapeHarvestDayOfYear": 240,
+    "danubeAvgSummerLevelCm": 135,
+    "extremeWeatherEventsCount": 52
+  },
+  {
+    "year": 2026,
+    "co2Ppm": 429.2,
+    "grapeHarvestDayOfYear": 236,
+    "danubeAvgSummerLevelCm": 118,
+    "extremeWeatherEventsCount": 54
+  }
+]

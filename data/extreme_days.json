@@ -1,0 +1,611 @@
+[
+  {
+    "year": 1940,
+    "heatWaveDays": 8,
+    "tropicalNights": 0,
+    "frostDays": 122,
+    "extremeColdDays": 24
+  },
+  {
+    "year": 1941,
+    "heatWaveDays": 11,
+    "tropicalNights": 1,
+    "frostDays": 116,
+    "extremeColdDays": 21
+  },
+  {
+    "year": 1942,
+    "heatWaveDays": 10,
+    "tropicalNights": 0,
+    "frostDays": 119,
+    "extremeColdDays": 26
+  },
+  {
+    "year": 1943,
+    "heatWaveDays": 18,
+    "tropicalNights": 2,
+    "frostDays": 98,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 1944,
+    "heatWaveDays": 14,
+    "tropicalNights": 1,
+    "frostDays": 102,
+    "extremeColdDays": 15
+  },
+  {
+    "year": 1945,
+    "heatWaveDays": 17,
+    "tropicalNights": 2,
+    "frostDays": 95,
+    "extremeColdDays": 13
+  },
+  {
+    "year": 1946,
+    "heatWaveDays": 22,
+    "tropicalNights": 2,
+    "frostDays": 92,
+    "extremeColdDays": 10
+  },
+  {
+    "year": 1947,
+    "heatWaveDays": 24,
+    "tropicalNights": 3,
+    "frostDays": 94,
+    "extremeColdDays": 18
+  },
+  {
+    "year": 1948,
+    "heatWaveDays": 16,
+    "tropicalNights": 1,
+    "frostDays": 99,
+    "extremeColdDays": 11
+  },
+  {
+    "year": 1949,
+    "heatWaveDays": 15,
+    "tropicalNights": 1,
+    "frostDays": 101,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 1950,
+    "heatWaveDays": 20,
+    "tropicalNights": 2,
+    "frostDays": 96,
+    "extremeColdDays": 10
+  },
+  {
+    "year": 1951,
+    "heatWaveDays": 14,
+    "tropicalNights": 1,
+    "frostDays": 98,
+    "extremeColdDays": 8
+  },
+  {
+    "year": 1952,
+    "heatWaveDays": 26,
+    "tropicalNights": 3,
+    "frostDays": 97,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 1953,
+    "heatWaveDays": 17,
+    "tropicalNights": 1,
+    "frostDays": 104,
+    "extremeColdDays": 14
+  },
+  {
+    "year": 1954,
+    "heatWaveDays": 7,
+    "tropicalNights": 0,
+    "frostDays": 124,
+    "extremeColdDays": 25
+  },
+  {
+    "year": 1955,
+    "heatWaveDays": 11,
+    "tropicalNights": 1,
+    "frostDays": 112,
+    "extremeColdDays": 17
+  },
+  {
+    "year": 1956,
+    "heatWaveDays": 10,
+    "tropicalNights": 0,
+    "frostDays": 121,
+    "extremeColdDays": 28
+  },
+  {
+    "year": 1957,
+    "heatWaveDays": 15,
+    "tropicalNights": 1,
+    "frostDays": 103,
+    "extremeColdDays": 11
+  },
+  {
+    "year": 1958,
+    "heatWaveDays": 13,
+    "tropicalNights": 1,
+    "frostDays": 105,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 1959,
+    "heatWaveDays": 17,
+    "tropicalNights": 1,
+    "frostDays": 100,
+    "extremeColdDays": 10
+  },
+  {
+    "year": 1960,
+    "heatWaveDays": 12,
+    "tropicalNights": 0,
+    "frostDays": 106,
+    "extremeColdDays": 13
+  },
+  {
+    "year": 1961,
+    "heatWaveDays": 18,
+    "tropicalNights": 2,
+    "frostDays": 98,
+    "extremeColdDays": 9
+  },
+  {
+    "year": 1962,
+    "heatWaveDays": 13,
+    "tropicalNights": 0,
+    "frostDays": 118,
+    "extremeColdDays": 22
+  },
+  {
+    "year": 1963,
+    "heatWaveDays": 14,
+    "tropicalNights": 1,
+    "frostDays": 126,
+    "extremeColdDays": 31
+  },
+  {
+    "year": 1964,
+    "heatWaveDays": 9,
+    "tropicalNights": 0,
+    "frostDays": 120,
+    "extremeColdDays": 20
+  },
+  {
+    "year": 1965,
+    "heatWaveDays": 8,
+    "tropicalNights": 0,
+    "frostDays": 117,
+    "extremeColdDays": 16
+  },
+  {
+    "year": 1966,
+    "heatWaveDays": 13,
+    "tropicalNights": 1,
+    "frostDays": 93,
+    "extremeColdDays": 8
+  },
+  {
+    "year": 1967,
+    "heatWaveDays": 16,
+    "tropicalNights": 1,
+    "frostDays": 102,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 1968,
+    "heatWaveDays": 14,
+    "tropicalNights": 1,
+    "frostDays": 108,
+    "extremeColdDays": 14
+  },
+  {
+    "year": 1969,
+    "heatWaveDays": 10,
+    "tropicalNights": 0,
+    "frostDays": 123,
+    "extremeColdDays": 24
+  },
+  {
+    "year": 1970,
+    "heatWaveDays": 9,
+    "tropicalNights": 0,
+    "frostDays": 114,
+    "extremeColdDays": 15
+  },
+  {
+    "year": 1971,
+    "heatWaveDays": 19,
+    "tropicalNights": 2,
+    "frostDays": 98,
+    "extremeColdDays": 10
+  },
+  {
+    "year": 1972,
+    "heatWaveDays": 14,
+    "tropicalNights": 1,
+    "frostDays": 105,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 1973,
+    "heatWaveDays": 15,
+    "tropicalNights": 1,
+    "frostDays": 109,
+    "extremeColdDays": 13
+  },
+  {
+    "year": 1974,
+    "heatWaveDays": 11,
+    "tropicalNights": 1,
+    "frostDays": 92,
+    "extremeColdDays": 7
+  },
+  {
+    "year": 1975,
+    "heatWaveDays": 16,
+    "tropicalNights": 2,
+    "frostDays": 95,
+    "extremeColdDays": 8
+  },
+  {
+    "year": 1976,
+    "heatWaveDays": 18,
+    "tropicalNights": 1,
+    "frostDays": 111,
+    "extremeColdDays": 14
+  },
+  {
+    "year": 1977,
+    "heatWaveDays": 12,
+    "tropicalNights": 1,
+    "frostDays": 101,
+    "extremeColdDays": 10
+  },
+  {
+    "year": 1978,
+    "heatWaveDays": 8,
+    "tropicalNights": 0,
+    "frostDays": 118,
+    "extremeColdDays": 18
+  },
+  {
+    "year": 1979,
+    "heatWaveDays": 14,
+    "tropicalNights": 1,
+    "frostDays": 113,
+    "extremeColdDays": 19
+  },
+  {
+    "year": 1980,
+    "heatWaveDays": 9,
+    "tropicalNights": 0,
+    "frostDays": 121,
+    "extremeColdDays": 20
+  },
+  {
+    "year": 1981,
+    "heatWaveDays": 15,
+    "tropicalNights": 1,
+    "frostDays": 104,
+    "extremeColdDays": 11
+  },
+  {
+    "year": 1982,
+    "heatWaveDays": 20,
+    "tropicalNights": 2,
+    "frostDays": 99,
+    "extremeColdDays": 10
+  },
+  {
+    "year": 1983,
+    "heatWaveDays": 27,
+    "tropicalNights": 4,
+    "frostDays": 92,
+    "extremeColdDays": 7
+  },
+  {
+    "year": 1984,
+    "heatWaveDays": 11,
+    "tropicalNights": 1,
+    "frostDays": 110,
+    "extremeColdDays": 13
+  },
+  {
+    "year": 1985,
+    "heatWaveDays": 13,
+    "tropicalNights": 1,
+    "frostDays": 125,
+    "extremeColdDays": 29
+  },
+  {
+    "year": 1986,
+    "heatWaveDays": 17,
+    "tropicalNights": 2,
+    "frostDays": 107,
+    "extremeColdDays": 16
+  },
+  {
+    "year": 1987,
+    "heatWaveDays": 14,
+    "tropicalNights": 1,
+    "frostDays": 122,
+    "extremeColdDays": 27
+  },
+  {
+    "year": 1988,
+    "heatWaveDays": 18,
+    "tropicalNights": 2,
+    "frostDays": 94,
+    "extremeColdDays": 8
+  },
+  {
+    "year": 1989,
+    "heatWaveDays": 19,
+    "tropicalNights": 2,
+    "frostDays": 88,
+    "extremeColdDays": 6
+  },
+  {
+    "year": 1990,
+    "heatWaveDays": 24,
+    "tropicalNights": 3,
+    "frostDays": 89,
+    "extremeColdDays": 7
+  },
+  {
+    "year": 1991,
+    "heatWaveDays": 16,
+    "tropicalNights": 2,
+    "frostDays": 108,
+    "extremeColdDays": 14
+  },
+  {
+    "year": 1992,
+    "heatWaveDays": 34,
+    "tropicalNights": 6,
+    "frostDays": 86,
+    "extremeColdDays": 6
+  },
+  {
+    "year": 1993,
+    "heatWaveDays": 18,
+    "tropicalNights": 3,
+    "frostDays": 105,
+    "extremeColdDays": 13
+  },
+  {
+    "year": 1994,
+    "heatWaveDays": 32,
+    "tropicalNights": 7,
+    "frostDays": 78,
+    "extremeColdDays": 4
+  },
+  {
+    "year": 1995,
+    "heatWaveDays": 17,
+    "tropicalNights": 2,
+    "frostDays": 103,
+    "extremeColdDays": 11
+  },
+  {
+    "year": 1996,
+    "heatWaveDays": 12,
+    "tropicalNights": 1,
+    "frostDays": 121,
+    "extremeColdDays": 22
+  },
+  {
+    "year": 1997,
+    "heatWaveDays": 16,
+    "tropicalNights": 2,
+    "frostDays": 106,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 1998,
+    "heatWaveDays": 21,
+    "tropicalNights": 3,
+    "frostDays": 89,
+    "extremeColdDays": 6
+  },
+  {
+    "year": 1999,
+    "heatWaveDays": 23,
+    "tropicalNights": 4,
+    "frostDays": 91,
+    "extremeColdDays": 7
+  },
+  {
+    "year": 2000,
+    "heatWaveDays": 35,
+    "tropicalNights": 8,
+    "frostDays": 81,
+    "extremeColdDays": 5
+  },
+  {
+    "year": 2001,
+    "heatWaveDays": 20,
+    "tropicalNights": 4,
+    "frostDays": 94,
+    "extremeColdDays": 8
+  },
+  {
+    "year": 2002,
+    "heatWaveDays": 26,
+    "tropicalNights": 6,
+    "frostDays": 84,
+    "extremeColdDays": 6
+  },
+  {
+    "year": 2003,
+    "heatWaveDays": 38,
+    "tropicalNights": 9,
+    "frostDays": 96,
+    "extremeColdDays": 10
+  },
+  {
+    "year": 2004,
+    "heatWaveDays": 18,
+    "tropicalNights": 3,
+    "frostDays": 92,
+    "extremeColdDays": 7
+  },
+  {
+    "year": 2005,
+    "heatWaveDays": 19,
+    "tropicalNights": 4,
+    "frostDays": 99,
+    "extremeColdDays": 9
+  },
+  {
+    "year": 2006,
+    "heatWaveDays": 28,
+    "tropicalNights": 7,
+    "frostDays": 91,
+    "extremeColdDays": 11
+  },
+  {
+    "year": 2007,
+    "heatWaveDays": 39,
+    "tropicalNights": 12,
+    "frostDays": 68,
+    "extremeColdDays": 3
+  },
+  {
+    "year": 2008,
+    "heatWaveDays": 25,
+    "tropicalNights": 8,
+    "frostDays": 73,
+    "extremeColdDays": 4
+  },
+  {
+    "year": 2009,
+    "heatWaveDays": 29,
+    "tropicalNights": 9,
+    "frostDays": 82,
+    "extremeColdDays": 7
+  },
+  {
+    "year": 2010,
+    "heatWaveDays": 19,
+    "tropicalNights": 5,
+    "frostDays": 95,
+    "extremeColdDays": 8
+  },
+  {
+    "year": 2011,
+    "heatWaveDays": 27,
+    "tropicalNights": 7,
+    "frostDays": 88,
+    "extremeColdDays": 6
+  },
+  {
+    "year": 2012,
+    "heatWaveDays": 37,
+    "tropicalNights": 11,
+    "frostDays": 85,
+    "extremeColdDays": 14
+  },
+  {
+    "year": 2013,
+    "heatWaveDays": 26,
+    "tropicalNights": 8,
+    "frostDays": 80,
+    "extremeColdDays": 5
+  },
+  {
+    "year": 2014,
+    "heatWaveDays": 22,
+    "tropicalNights": 8,
+    "frostDays": 54,
+    "extremeColdDays": 2
+  },
+  {
+    "year": 2015,
+    "heatWaveDays": 41,
+    "tropicalNights": 14,
+    "frostDays": 66,
+    "extremeColdDays": 3
+  },
+  {
+    "year": 2016,
+    "heatWaveDays": 24,
+    "tropicalNights": 9,
+    "frostDays": 74,
+    "extremeColdDays": 4
+  },
+  {
+    "year": 2017,
+    "heatWaveDays": 34,
+    "tropicalNights": 12,
+    "frostDays": 82,
+    "extremeColdDays": 12
+  },
+  {
+    "year": 2018,
+    "heatWaveDays": 38,
+    "tropicalNights": 15,
+    "frostDays": 61,
+    "extremeColdDays": 3
+  },
+  {
+    "year": 2019,
+    "heatWaveDays": 42,
+    "tropicalNights": 17,
+    "frostDays": 58,
+    "extremeColdDays": 2
+  },
+  {
+    "year": 2020,
+    "heatWaveDays": 28,
+    "tropicalNights": 12,
+    "frostDays": 55,
+    "extremeColdDays": 1
+  },
+  {
+    "year": 2021,
+    "heatWaveDays": 33,
+    "tropicalNights": 14,
+    "frostDays": 76,
+    "extremeColdDays": 4
+  },
+  {
+    "year": 2022,
+    "heatWaveDays": 46,
+    "tropicalNights": 22,
+    "frostDays": 60,
+    "extremeColdDays": 1
+  },
+  {
+    "year": 2023,
+    "heatWaveDays": 39,
+    "tropicalNights": 18,
+    "frostDays": 52,
+    "extremeColdDays": 0
+  },
+  {
+    "year": 2024,
+    "heatWaveDays": 51,
+    "tropicalNights": 26,
+    "frostDays": 48,
+    "extremeColdDays": 0
+  },
+  {
+    "year": 2025,
+    "heatWaveDays": 47,
+    "tropicalNights": 24,
+    "frostDays": 51,
+    "extremeColdDays": 0
+  },
+  {
+    "year": 2026,
+    "heatWaveDays": 49,
+    "tropicalNights": 25,
+    "frostDays": 49,
+    "extremeColdDays": 0
+  }
+]
