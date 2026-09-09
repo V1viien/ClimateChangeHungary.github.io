@@ -128,7 +128,7 @@ export function InfoModal({ isOpen, onClose, lang }: InfoModalProps) {
           {/* Direct Download Bundles */}
           <div className="pt-2 border-t border-slate-800 flex flex-wrap gap-2">
             <a
-              href="/data/hungary_climate_yearly_1940_2025.csv"
+              href="./data/hungary_climate_yearly_1940_2025.csv"
               download="hungary_climate_yearly_1940_2025.csv"
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs border border-slate-700 transition-colors"
             >
@@ -136,7 +136,7 @@ export function InfoModal({ isOpen, onClose, lang }: InfoModalProps) {
               <span>hungary_climate_yearly_1940_2025.csv</span>
             </a>
             <a
-              href="/data/hungary_climate_decades.csv"
+              href="./data/hungary_climate_decades.csv"
               download="hungary_climate_decades.csv"
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs border border-slate-700 transition-colors"
             >
